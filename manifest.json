@@ -3,7 +3,7 @@
 
   "name": "Kitten Block",
   "description": "Replaces the Daily Mail and Express with Tea and Kittens",
-  "version": "2.0.0",
+  "version": "2.0.1",
 
   "applications": {
     "gecko": {
